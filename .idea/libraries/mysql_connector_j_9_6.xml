@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-9.6" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-j-9.6.0.zip!/mysql-connector-j-9.6.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
